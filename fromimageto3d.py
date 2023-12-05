@@ -7,7 +7,6 @@ image_name = 'key_mask.jpg'
 #TODO run shell script from python
 
 
-
 #Kakvo moje da raboti:
 
 #   image to dxf
